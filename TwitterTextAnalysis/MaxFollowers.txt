@@ -1,0 +1,22 @@
+The top 10 users who has the maximum followers: 
+
+1. Username: astros -> Number of Followers: 1418232
+
+2. Username: abc13houston -> Number of Followers: 725992
+
+3. Username: KHOU -> Number of Followers: 694475
+
+4. Username: KPRC2 -> Number of Followers: 631941
+
+5. Username: Academy -> Number of Followers: 316161
+
+6. Username: HoustonTX -> Number of Followers: 262993
+
+7. Username: DowntownHouston -> Number of Followers: 160525
+
+8. Username: McClain_on_NFL -> Number of Followers: 136251
+
+9. Username: sluggernation -> Number of Followers: 111569
+
+10. Username: SylvesterTurner -> Number of Followers: 79553
+
